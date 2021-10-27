@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/thuctap/namphuong/filter/CookieFilter.java=UTF-8
+encoding//src/com/thuctap/namphuong/filter/JDBCFilter.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/CreateProductServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/DeleteProductServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/EditProductServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/HomeServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/LoginServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/ProductListServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/servlet/UserInfoServlet.java=UTF-8
+encoding//src/com/thuctap/namphuong/utils/MyUtils.java=UTF-8
